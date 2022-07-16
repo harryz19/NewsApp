@@ -1,0 +1,1 @@
+News App is an hybrid platform application powered by News API in which top headlines of different categories are divided into categories. It is created in Ionic Platform. #Ionic #NewsAPI #Typescript #Angular
